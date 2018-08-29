@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustom-Client80/EurekaCustom-Client80.iml" filepath="$PROJECT_DIR$/EurekaCustom-Client80/EurekaCustom-Client80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustom-Server8001/EurekaCustom-Server8001.iml" filepath="$PROJECT_DIR$/EurekaCustom-Server8001/EurekaCustom-Server8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustom-Server8002/EurekaCustom-Server8002.iml" filepath="$PROJECT_DIR$/EurekaCustom-Server8002/EurekaCustom-Server8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustom-Server8003/EurekaCustom-Server8003.iml" filepath="$PROJECT_DIR$/EurekaCustom-Server8003/EurekaCustom-Server8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustom-Client80/EurekaCustom80.iml" filepath="$PROJECT_DIR$/EurekaCustom-Client80/EurekaCustom80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustom-Server8001/EurekaCustom8001.iml" filepath="$PROJECT_DIR$/EurekaCustom-Server8001/EurekaCustom8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustom-Server8002/EurekaCustom8002.iml" filepath="$PROJECT_DIR$/EurekaCustom-Server8002/EurekaCustom8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustom-Server8003/EurekaCustom8003.iml" filepath="$PROJECT_DIR$/EurekaCustom-Server8003/EurekaCustom8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustomApi/EurekaCustomApi.iml" filepath="$PROJECT_DIR$/EurekaCustomApi/EurekaCustomApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCustomProvide/EurekaCustomProvide.iml" filepath="$PROJECT_DIR$/EurekaCustomProvide/EurekaCustomProvide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer7001/EurekaServer7001.iml" filepath="$PROJECT_DIR$/EurekaServer7001/EurekaServer7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer7002/EurekaServer7002.iml" filepath="$PROJECT_DIR$/EurekaServer7002/EurekaServer7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer7003/EurekaServer7003.iml" filepath="$PROJECT_DIR$/EurekaServer7003/EurekaServer7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudEureka.iml" filepath="$PROJECT_DIR$/SpringCloudEureka.iml" />
+    </modules>
+  </component>
+</project>
